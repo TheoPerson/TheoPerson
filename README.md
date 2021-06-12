@@ -11,7 +11,7 @@
 - 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
 - ⚡ ・Fun fact: I love to play rugby and Siege
 
-<img src='https://path/to/animation.gif' />
+![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
 ### Connect with me:
 
