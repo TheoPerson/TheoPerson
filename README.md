@@ -3,13 +3,13 @@
 
 
  
- 👋 ・ Hi, I’m Theo - aka @JUG
- 👀 ・I’m interested in Hardware, Discord dev dev, PC Building and Social medias developement like Twitch, Youtube, Discord (bots)
- 🌱 ・ I’m currently learning IT Engineering
- 📫 ・To reach me : Business --> Fruitztech@gmail.com | Discord.gg/zeh /\ Personal --> JUG#7777 or theoperson333@gmail.com 
- 🌱 I’m currently learning everything 🤣
- 🥅 2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
- ⚡ Fun fact: I love to play rugby and Siege
+- 👋 ・ Hi, I’m Theo - aka @JUG
+- 👀 ・I’m interested in Hardware, Discord dev dev, PC Building and Social medias developement like Twitch, Youtube, Discord (bots)
+- 🌱 ・ I’m currently learning IT Engineering
+- 📫 ・To reach me : Business --> Fruitztech@gmail.com | Discord.gg/zeh /\ Personal --> JUG#7777 or theoperson333@gmail.com 
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
+- ⚡ Fun fact: I love to play rugby and Siege
 
 ### Spotify Playing 🎧
 
