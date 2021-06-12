@@ -11,9 +11,7 @@
 - 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
 - ⚡ ・Fun fact: I love to play rugby and Siege
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-JUG_UK.vercel.app/api/spotify-playing" alt="JUG_UK Spotify Playing" width="350" />](https://open.spotify.com/user/83tvyqej4eodamohcfgjcn5kc)
+<img src='https://path/to/animation.gif' />
 
 ### Connect with me:
 
