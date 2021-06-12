@@ -1,6 +1,6 @@
 ### Hi there, I'm Theo - aka [JUG] 👋
 
-[![Website](Discord.gg/zeh)
+Discord.gg/zeh
 [![Twitter Follow](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JUG__UK)
 
 
