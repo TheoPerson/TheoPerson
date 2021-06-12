@@ -1,9 +1,5 @@
 ### Hi there, I'm Theo - aka [JUG] 👋
 
-Discord.gg/zeh
-[![Twitter Follow](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JUG__UK)
-
-
 
 
  
@@ -12,7 +8,7 @@ Discord.gg/zeh
  🌱 ・ I’m currently learning IT Engineering
  📫 ・To reach me : Business --> Fruitztech@gmail.com | Discord.gg/zeh /\ Personal --> JUG#7777 or theoperson333@gmail.com 
  🌱 I’m currently learning everything 🤣
- 🥅 2021 Goals: Aciheved all my Discor goals ( DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
+ 🥅 2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
  ⚡ Fun fact: I love to play rugby and Siege
 
 ### Spotify Playing 🎧
