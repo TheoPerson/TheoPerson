@@ -11,13 +11,23 @@
 - 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
 - ⚡ ・Fun fact: I love to play rugby and Siege
 
-![](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+--
+
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JUG__UK
+[instagram]: https://www.instagram.com/theo.person
+[linkedin]: https://www.linkedin.com/in/theoperson/
+
+--
+
+![](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
+
+
 
 <br />
 
