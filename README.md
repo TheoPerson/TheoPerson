@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-JUG_UK.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/83tvyqej4eodamohcfgjcn5kc)
+[<img src="https://now-playing-JUG_UK.vercel.app/api/spotify-playing" alt="JUG_UK Spotify Playing" width="350" />](https://open.spotify.com/user/83tvyqej4eodamohcfgjcn5kc)
 
 ### Connect with me:
 
