@@ -21,9 +21,11 @@
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JUG__UK
 [instagram]: https://www.instagram.com/theo.person
-[linkedin]: https://www.linkedin.com/in/theoperson/ 
+[linkedin]: https://www.linkedin.com/in/theoperson/ <br />
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ <br />
+
+
 
 ![](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 
