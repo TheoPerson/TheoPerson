@@ -3,7 +3,6 @@
 
 
  
-- 👋 ・ Hi, I’m Theo - aka @JUG
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 🌱 ・ I’m currently learning IT Engineering
 - 📫 ・To reach me : Business --> Fruitztech@gmail.com | Discord.gg/zeh | Personal --> JUG#7777 or theoperson333@gmail.com 
