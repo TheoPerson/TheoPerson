@@ -5,9 +5,10 @@
  
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 🌱 ・ I’m currently learning IT Engineering
+- ⚡ ・Discord Certified Developer for Team FaultBot.
 - 📫 ・To reach me : Business --> Fruitztech@gmail.com | Discord.gg/zeh | Personal --> JUG#7777 or theoperson333@gmail.com 
 - 🌱 ・I’m currently learning everything 🤣
-- 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - CERIFIED BOT DEVELOPER - DISCORD PARTNER)
+- 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - DISCORD PARTNER)
 - ⚡ ・Fun fact: I love to play rugby and r6: Siege
 
 ### Connect with me:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
