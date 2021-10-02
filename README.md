@@ -1,10 +1,9 @@
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JUGUK&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JUGUK&show_icons=true&theme=tokyonight" /> <br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGUK&langs_count=8)" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGUK&langs_count=8)" /> <br>
 
 
-<br> 
-<br>
+
 
 
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
