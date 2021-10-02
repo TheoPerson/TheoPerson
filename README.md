@@ -11,15 +11,6 @@
 - 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - DISCORD PARTNER)
 - ⚡ ・Fun fact: I love to play rugby and r6: Siege
 
-import CodersrankSummary from '@codersrank/summary';
-
-// register web component as <codersrank-summary> element
-window.customElements.define('codersrank-summary', CodersrankSummary);
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
- 
- 
-<codersrank-summary username="Théo Person"></codersrank-summary>ㅤ
 
 <br />
 <br />
