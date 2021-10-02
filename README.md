@@ -11,6 +11,8 @@
 - 🥅 ・2021 Goals: Aciheved all my Discord goals (DMD - DISCORD PARTNER)
 - ⚡ ・Fun fact: I love to play rugby and r6: Siege
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUGUK)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 <br />
