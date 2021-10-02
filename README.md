@@ -1,8 +1,11 @@
-### Hi there, I'm Theo - aka [JUG] 👋
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JUGUK&show_icons=true&theme=tokyonight" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGUK&langs_count=8)" />
 
 
 
- 
+
+
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 🌱 ・ I’m currently learning IT Engineering
 - ⚡ ・Discord Certified Developer for Team FaultBot.
@@ -12,24 +15,29 @@
 - ⚡ ・Fun fact: I love to play rugby and r6: Siege
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUGUK&show_icons=true&theme=tokyonight)
 
 
 
 
 
-<br />
-<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
- 
-
-
-
-
-</details>
-
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JUG__UK
-[instagram]: https://www.instagram.com/theo.person
-[linkedin]: https://www.linkedin.com/in/theoperson/
 
