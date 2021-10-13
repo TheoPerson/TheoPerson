@@ -15,13 +15,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
-
-
-
-<br>
 
 
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
