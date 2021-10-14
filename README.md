@@ -62,7 +62,7 @@
 - 🌱 &nbsp; I’m currently learning MySQL; 
 - 🌱 ・I’m currently learning IT Engineering
 - ⚡ ・Discord Certified Developer for Team FaultBot.
-- 📫 ・To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmailcom?subject=[Contact])
+- 📫 ・To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
