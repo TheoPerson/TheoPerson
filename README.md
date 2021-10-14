@@ -9,7 +9,7 @@
 - ⚡ ・Discord Certified Developer for Team FaultBot.
 - 📫 ・To reach me :| Discord.gg/zeh or theoperson333@gmail.com 
 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zehJ)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zeh)
 
 
 
