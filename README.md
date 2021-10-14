@@ -1,3 +1,20 @@
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
+
+
+
+
+- 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
+- 🌱 ・I’m currently learning IT Engineering
+- ⚡ ・Discord Certified Developer for Team FaultBot.
+- 📫 ・To reach me :| Discord.gg/zeh or theoperson333@gmail.com 
+
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zehJ)
+
+
+
+
+
 <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=JUGUK&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomanagle&layout=compact" />
 <img alt="Html 5" align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,9 +40,8 @@
 - ⚡ ・Discord Certified Developer for Team FaultBot.
 - 📫 ・To reach me :| Discord.gg/zeh or theoperson333@gmail.com 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{JUGUK}/count.svg)
 
 
 
-![](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 
