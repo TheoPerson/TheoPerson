@@ -63,7 +63,7 @@
 - 🌱 ・I’m currently learning IT Engineering
 - ⚡ ・Discord Certified Developer for Team FaultBot.
 - 📫 ・To reach me :[Discord](https://discord.gg/zeh) or [mail](theoperson333@gmail.com)
-- [Dr. Ken Lunde](mailto:theoperson333@gmail.com)
+- [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]) (Source Han Sans)
 - 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
