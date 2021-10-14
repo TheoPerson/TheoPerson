@@ -27,18 +27,12 @@
 <img alt="Netifly" align="left" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 <br>
 <img alt="Visual Studio Code" align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
-- 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
-- 🌱 ・I’m currently learning IT Engineering
-- ⚡ ・Discord Certified Developer for Team FaultBot.
-- 📫 ・To reach me :| Discord.gg/zeh or theoperson333@gmail.com 
+
+<br>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{JUGUK}/count.svg)
 
