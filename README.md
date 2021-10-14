@@ -3,12 +3,6 @@
 
 
 
-
-- 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
-- 🌱 ・I’m currently learning IT Engineering
-- ⚡ ・Discord Certified Developer for Team FaultBot.
-- 📫 ・To reach me :| Discord.gg/zeh or theoperson333@gmail.com 
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zeh)
 
 
@@ -64,15 +58,16 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🔭 &nbsp; I’m currently working on **Discord BOT logger of siege bans**
+- 🌱 &nbsp; I’m currently learning MySQL; 
+- 🌱 ・I’m currently learning IT Engineering
+- ⚡ ・Discord Certified Developer for Team FaultBot.
+- 📫 ・To reach me :[Discord](https://discord.gg/zeh) or [mail](theoperson333@gmail.com)
+- 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theoperson/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📚 &nbsp; Find my readings here, [Goodreads](https://www.goodreads.cotheoperson) politics (economy, society, geo-politics), history, philosophy, theology, literature and more. 
 
 <br>
 
