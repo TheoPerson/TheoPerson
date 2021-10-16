@@ -58,33 +58,3 @@
 
 <hr>
 
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **Discord BOT logger of siege bans**
-- 🌱 &nbsp; I’m currently learning MySQL; 
-- 🌱 ・I’m currently learning IT Engineering
-- ⚡ ・Discord Certified Developer for Team FaultBot.
-- 📫 ・To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
-- 👀 ・I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theoperson/)
-- 📚 &nbsp; Find my readings here, [Goodreads](https://www.goodreads.cotheoperson) politics (economy, society, geo-politics), history, philosophy, theology, literature and more. 
-
-<br>
-
-### 🔨 Languages and Tools:
- 
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
-
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-
-
-
-<br>
-
-
-
