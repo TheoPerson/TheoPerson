@@ -45,8 +45,8 @@
 
 
 
-<br><br><br><br><br><br><br><br><br>
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK) 
+<br><br><br><br><br><br>
+![Spotify](https://novatorem.vercel.app/api/spotify)
 <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -58,7 +58,7 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juguk)](https://github.com/anuraghazra/github-readme-stats)
+ ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f83b8df9-ccdd-4253-9e5a-a45f5380d9ae)
 
     
   
