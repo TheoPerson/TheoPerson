@@ -29,31 +29,24 @@
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
  
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946500300787762/1200px-HTML5_logo_and_wordmark.svg.png"></a> 
   
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946463999090738/CSS3_logo_and_wordmark.svg.png"></a> 
    
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="mysql" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="mysql" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898954833455906837/1200px-MySQL.svg.png"></a> 
     
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="npm" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="npm" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898955026473578506/npm-logo.png"></a> 
      
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="vscode" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="vscode" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898947075981594734/Visual_Studio_Code_1.35_icon.svg.png"></a> 
       
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852237333427126291/898946373066571816/meta-image.png"></a> 
 
 
 
 
 
-<br><br><br>
-
-<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK) 
-<p align="center">
-  <img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads"/>
-</p>
-
-
-
+<br><br><br><br><br><br><br><br><br>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK) 
 <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
