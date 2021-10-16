@@ -56,13 +56,9 @@
    </div>
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juguk&show_icons=true&theme=tokyonight)
  
- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f83b8df9-ccdd-4253-9e5a-a45f5380d9ae)
 
-    
-  
- 
 </p>
 
 <hr>
