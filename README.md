@@ -1,20 +1,24 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
+ 
 ### 🧐 About Me:
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🔭 &nbsp; I’m currently working on **Discord BOT logger of siege bans**
-- 🌱 &nbsp; I’m currently learning MySQL; 
-- 🌱 &nbsp; I’m currently learning IT Engineering
+- 🌱 &nbsp; Learning IT Engineering
 - ⚡ &nbsp; Discord Certified Developer for Team FaultBot.
 - 📫 &nbsp; To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
-- 👀 &nbsp; I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
+- 👀 &nbsp; I’m interested in Hardware, Discord dev, PC Building andㅤㅤㅤㅤㅤㅤㅤㅤㅤ Social medias developement like Twitch, Youtube, Discord.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theoperson/)
-- 📚 &nbsp; Find my readings here, [Goodreads](https://www.goodreads.cotheoperson) politics (economy, society, geo-politics), history, philosophy, theology, literature and more. 
+- 📚 &nbsp; Find my readings here at [Goodreads](https://www.goodreads.cotheoperson) you can find, politics (economy, ㅤㅤㅤㅤsociety, geo-politics), history, philosophy, theology, literature and more. 
+
+
 
 <br>
+<hr>
 
 ### 🔨 Languages and Tools:
  
@@ -52,8 +56,7 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGUK&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=JUGUK&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
 </p>
 
 <hr>
