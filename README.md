@@ -1,9 +1,10 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
- 
-### 🧐 About Me:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 About Me:
+
 
 - 🔭 &nbsp; I’m currently working on **Discord BOT logger of siege bans**
 - 🌱 &nbsp; Learning IT Engineering
@@ -23,23 +24,30 @@
 ### 🔨 Languages and Tools:
  
 
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+ 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+  
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+   
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="mysql" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+    
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="npm" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+     
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="vscode" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+      
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
 
 
 
-<br><br><br><br><br><br><br>
-
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zeh)
-
-- &nbsp; Visitor count ![Visitor Count](https://profile-counter.glitch.me/{JUGUK}/count.svg)
 
 
+<br><br><br>
 
-<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK)
+<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK) - &nbsp; <h3> Visitor count </h3> ![Visitor Count](https://profile-counter.glitch.me/{JUGUK}/count.svg) [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zeh)
 
 
 
