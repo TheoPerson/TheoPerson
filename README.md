@@ -47,7 +47,10 @@
 
 <br><br><br>
 
-<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK) - &nbsp; <h3> Visitor count </h3> ![Visitor Count](https://profile-counter.glitch.me/{JUGUK}/count.svg) [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/zeh)
+<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/JUG_UK) 
+<p align="center">
+  <img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads"/>
+</p>
 
 
 
@@ -59,11 +62,13 @@
   <div align=center>
    </div>
 
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUGUK&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juguk)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+  
  
 </p>
 
