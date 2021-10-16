@@ -10,11 +10,11 @@
 - 🌱 &nbsp; Learning IT Engineering
 - ⚡ &nbsp; Discord Certified Developer for Team FaultBot.
 - 📫 &nbsp; To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
-- 👀 &nbsp; I’m interested in Hardware, Discord dev, PC Building andㅤㅤㅤㅤㅤㅤㅤㅤㅤ Social medias developement like Twitch, Youtube, Discord.
+- 👀 &nbsp; I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theoperson/)
-- 📚 &nbsp; Find my readings here at [Goodreads](https://www.goodreads.cotheoperson) you can find, politics (economy, ㅤㅤㅤㅤsociety, geo-politics), history, philosophy, theology, literature and more. 
+- 📚 &nbsp; Find my readings here at [Goodreads](https://www.goodreads.cotheoperson) you can find, politics (economy, society, geo-politics), history, philosophy, theology, literature and more. 
 
 
 
