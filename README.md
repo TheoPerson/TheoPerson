@@ -14,7 +14,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JUGUK?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theoperson/)
-- 📚 &nbsp; Find my readings here at [Goodreads](https://www.goodreads.cotheoperson) you can find, politics (economy, society, geo-politics), history, philosophy, theology, literature and more. 
+- 📚 &nbsp; Find my readings here at [Goodreads](https://www.goodreads.com/user/show/141668859-th-o-person) you can find, politics (economy, society, geo-politics), history, philosophy, theology, literature and more. 
 
 
 
