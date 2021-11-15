@@ -65,5 +65,5 @@
 <hr>
 
 
-[![MasterHead](https://cdn.discordapp.com/attachments/848223283467386940/909744743666311168/8840_brawl_stars_trophy.png)](https://github.com/JUGUK)
+
 
