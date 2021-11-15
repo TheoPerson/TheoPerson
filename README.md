@@ -50,7 +50,7 @@
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 <br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+### ⚡ Stats ⚡
 <br>
 <p align=center>
   <div align=center>
