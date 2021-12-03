@@ -6,7 +6,7 @@
 ### 🧐 About Me:
 
 
-- 🔭 &nbsp; I’m currently working on **Discord BOT logger of siege bans**
+- 🔭 &nbsp; I’m currently working on **RawEvents Sky event company**
 - 🌱 &nbsp; Learning IT Engineering
 - ⚡ &nbsp; Discord Certified Developer for Team FaultBot.
 - 📫 &nbsp; To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
