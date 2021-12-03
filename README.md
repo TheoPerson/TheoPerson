@@ -52,11 +52,7 @@
 <br>
 <hr>
 
-### ⚡ Stats ⚡
-<br>
-<p align=center>
-  <div align=center>
-   </div>
+
 
  
  
