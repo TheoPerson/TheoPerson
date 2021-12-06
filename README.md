@@ -55,7 +55,7 @@
 
 
  
- 
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/31dd2363-12c2-4d9a-834a-6a2adbd2bdfa/deploy-status)](https://app.netlify.com/sites/theoperson/deploys)
  
 
 </p>
