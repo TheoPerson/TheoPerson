@@ -55,7 +55,7 @@
 
 
  
- <img src="https://cdn.discordapp.com/attachments/853541868826263552/917880758658539545/telechargement.jpeg">
+ 
  
 
 </p>
