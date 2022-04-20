@@ -3,13 +3,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 About Me:
 
 <br>
-<br>
-<br>
-<br>
-
 
 
 ![Alt](https://discord.c99.nl/widget/theme-4/630820742031736845.png)
