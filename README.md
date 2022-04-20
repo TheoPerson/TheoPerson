@@ -18,6 +18,10 @@
 <br>
 <br>
 
+
+
+![Alt](https://discord.c99.nl/widget/theme-4/630820742031736845.png)
+
 - 🔭 &nbsp; I’m currently working on **RawEvents Sky event company**
 - 🌱 &nbsp; Learning IT Engineering
 - ⚡ &nbsp; Discord Certified Developer for Team FaultBot.
