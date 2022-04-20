@@ -9,6 +9,11 @@
 
 ![Alt](https://discord.c99.nl/widget/theme-4/630820742031736845.png)
 
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+
 - 🔭 &nbsp; I’m currently working on **RawEvents Sky event company**
 - 🌱 &nbsp; Learning IT Engineering
 - ⚡ &nbsp; Discord Certified Developer for Team FaultBot.
