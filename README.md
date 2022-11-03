@@ -7,10 +7,10 @@
 <br>
 
 
-- 🔭 &nbsp; I’m currently working on **RawEvents Sky event company**
+- 🔭 &nbsp; I’m currently working on **PC OPTIMIZATIONS FOR BETTER GAMING/ESPORT PERFORMANCES**
 - 🌱 &nbsp; Learning IT Engineering
 - ⚡ &nbsp; Discord Certified Developer for Team FaultBot.
-- 📫 &nbsp; To reach me [Discord](https://discord.gg/zeh) or [mail](mailto:theoperson333@gmail.com?subject=[Contact])
+- 📫 &nbsp; To reach me [Discord](discord.gg/T8efrpX) or [mail](mailto:theo.person@epsi.fr?subject=[Contact])
 - 👀 &nbsp; I’m interested in Hardware, Discord dev, PC Building and Social medias developement like Twitch, Youtube, Discord.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theoperson?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
