@@ -33,18 +33,3 @@
 
 <br><br><br><br><br>
 ![Spotify](https://novatorem.vercel.app/api/spotify)
-
-
-
- 
- 
- 
-
-</p>
-
-<hr>
-
-
-
-
-
