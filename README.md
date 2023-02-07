@@ -1,24 +1,20 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<br><br><br>ㅤㅤㅤㅤㅤㅤㅤㅤ
+                            &nbsp; &nbsp; &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+                            <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <br>
-<h1 align="center">Hi 👋, I'm Théo</h1>
-<h3 align="center">A passionate developer from France</h3>
+<br> 
+<br>
+<h1 align="center">Hi 👋, I'm Théo 'JUG'</h1>
+<br>
+<br>
+<h3 align="center">A passionate developer from France / UK</h3>
+<br>
+<br> 
+<br>            
 
+- 🔭 I’m currently working on [Akigora - Data analysis- AI search engine](https://akigora.com)          
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theoperson&label=Profile%20views&color=0e75b6&style=flat" alt="theoperson" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/jug_sec" target="blank"><img src="https://img.shields.io/twitter/follow/jug_sec?logo=twitter&style=for-the-badge" alt="jug_sec" /></a> </p>
-
-
-
-- 🔭 I’m currently working on [Akigora - Data analysis- AI search engine](https://akigora.com)
-
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics / Data cleaning**
 
 - 👨‍💻 All of my projects are available in my public [repositories](https://bit.ly/3XfcDI6)
 
@@ -26,29 +22,30 @@
 
 - 💬 Ask me about **List of my favorite languages below**
 
-- 📫 To reach me [Discord](discord.gg/T8efrpX) or [mail](mailto:theo.person@epsi.fr?subject=[Contact])
+- 📫 To reach me [Discord](discord.gg/T8efrpX), [mail](mailto:theo.person@epsi.fr?subject=[Contact]) or [Twitter](https://twitter.com/intent/user?screen_name=jug_sec)
 
 - 📄 Know about my experiences : Resume comming soon..
 
-- 📫 &nbsp; Feel free to connnect with me on [My Linkedin page](https://www.linkedin.com/in/theoperson/)
+- 📫 Fee free to connnect with me on [My Linkedin page](https://www.linkedin.com/in/theoperson/)
 
 - ⚡ Security fact **Social Engineering Attacks are very common and easy, be aware from it, be aware from what you don't expect**
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="left">Connect with me</h2> <br>
+  
+<a href="https://twitter.com/jug_sec" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1072441680701181982/1072442002232324156/Twitter.png" alt="jug_sec" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/theoperson" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1072441680701181982/1072441895730548756/LinkedIN.png" alt="theoperson" height="40" width="40" /></a>
+ <a href="mailto:theo.person@epsi.fr?subject=[GitHub contact:]" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1072441680701181982/1072442194234986526/Outlook.png" alt="theoperson" height="40" width="40" /></a>
   <br>
+   </p>
+  <br>  
   
-<a href="https://twitter.com/jug_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jug_sec" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theoperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theoperson" height="30" width="40" /></a>
- <a href="mailto:theo.person@epsi.fr?subject=[GitHub contact:]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theoperson" height="30" width="40" /></a>
+  <h2 align="left">Plateforms</h2> <br>
   
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-<br><br><br><br><br>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1072441680701181982/1072441799458684968/Android.png" alt="android" width="40" height="40"/><p align="left"><a href="https://developer.apple.com/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1072441680701181982/1072441799710359572/Apple.png" alt="apple" width="40" height="40"/><p align="left"><a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1072441680701181982/1072442002458804254/Ubuntu.png" alt="ubuntu" width="40" height="40"/><p align="left"> <a href="https://windows.com" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1072441680701181982/1072442032951398430/Windows.png" alt="windows" width="40" height="40"/>
+  <br>
+   <h2 align="left">Languages and Tools:</h2> <br>
+  
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></
+  
+<br><br><br>
 ![Spotify](https://novatorem.vercel.app/api/spotify)
