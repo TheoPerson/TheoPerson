@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoperson&label=Profile%20views&color=0e75b6&style=flat" alt="theoperson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theoperson" alt="theoperson" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jug_sec" target="blank"><img src="https://img.shields.io/twitter/follow/jug_sec?logo=twitter&style=for-the-badge" alt="jug_sec" /></a> </p>
 
 - 🔭 I’m currently working on [Akigora - Data analysis- AI search engine](https://akigora.com)
