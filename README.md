@@ -8,32 +8,42 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
 <h3 align="center">A passionate developer from France</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoperson&label=Profile%20views&color=0e75b6&style=flat" alt="theoperson" /> </p>
 
+
 <p align="left"> <a href="https://twitter.com/jug_sec" target="blank"><img src="https://img.shields.io/twitter/follow/jug_sec?logo=twitter&style=for-the-badge" alt="jug_sec" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Akigora - Data analysis- AI search engine](https://akigora.com)
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheoPerson?tab=repositories](https://github.com/TheoPerson?tab=repositories)
+- 👨‍💻 All of my projects are available in my public [repositories](https://bit.ly/3XfcDI6)
 
-- 📝 I regularly write articles on [https://twitter.com/JUG_SEC](https://twitter.com/JUG_SEC)
+- 📝 I regularly write articles on [My Twitter page](https://twitter.com/JUG_SEC)
 
 - 💬 Ask me about **List of my favorite languages below**
 
 - 📫 To reach me [Discord](discord.gg/T8efrpX) or [mail](mailto:theo.person@epsi.fr?subject=[Contact])
 
-- 📄 Know about my experiences [Comming soon..](Comming soon..)
+- 📄 Know about my experiences : Resume comming soon..
 
-- 📫 &nbsp; Feel free to connnect with me on [LinkedIn](https://www.linkedin.com/in/theoperson/)
+- 📫 &nbsp; Feel free to connnect with me on [My Linkedin page](https://www.linkedin.com/in/theoperson/)
 
-- ⚡ Tech/Human fact **Social Engineering Attacks are very common and easy, be aware from it, be aware from what you don't expect**
+- ⚡ Security fact **Social Engineering Attacks are very common and easy, be aware from it, be aware from what you don't expect**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <br>
+  
 <a href="https://twitter.com/jug_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jug_sec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theoperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theoperson" height="30" width="40" /></a>
+ <a href="mailto:theo.person@epsi.fr?subject=[GitHub contact:]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theoperson" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
