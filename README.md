@@ -8,8 +8,7 @@
 <br>
 <br>
 <h3 align="center">A passionate developer from France / UK</h3>
-<br> <a href="https://www.twitter.com/JUG_SEC" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JUG_SEC?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<br>
 <br> 
 <br>            
 
@@ -32,11 +31,16 @@ src="https://img.shields.io/twitter/follow/JUG_SEC?logo=twitter&style=for-the-ba
 - ⚡ Security fact **Social Engineering Attacks are very common and easy, be aware from it, be aware from what you don't expect**
 
 <h2 align="left">Connect with me</h2> <br>
+
   
 <a href="https://twitter.com/jug_sec" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1072441680701181982/1072442002232324156/Twitter.png" alt="jug_sec" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/theoperson" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1072441680701181982/1072441895730548756/LinkedIN.png" alt="theoperson" height="40" width="40" /></a>
  <a href="mailto:theo.person@epsi.fr?subject=[GitHub contact:]" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1072441680701181982/1072442194234986526/Outlook.png" alt="theoperson" height="40" width="40" /></a>
   <br>
+  <br>
+  <br>
+  <a href="https://www.twitter.com/JUG_SEC" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/twitter/follow/JUG_SEC?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917">
    </p>
   <br>  
   
