@@ -8,7 +8,8 @@
 <br>
 <br>
 <h3 align="center">A passionate developer from France / UK</h3>
-<br>
+<br> <a href="https://www.twitter.com/JUG_SEC" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/JUG_SEC?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 <br> 
 <br>            
 
