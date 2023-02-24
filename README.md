@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [My Twitter page](https://twitter.com/JUG_SEC)
 
-- 💬 Ask me about **List of my favorite languages below**
+- 💬 Ask me about **list of my favorite languages below**
 
 - 📫 To reach me [Discord](discord.gg/T8efrpX), [mail](mailto:theo.person@epsi.fr?subject=[Contact]) or [Twitter](https://twitter.com/intent/user?screen_name=jug_sec)
 
