@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences : Resume comming soon..
 
-- 📫 Fee free to connnect with me on [My Linkedin page](https://www.linkedin.com/in/theoperson/)
+- 📫 Feel free to connnect with me on [My Linkedin page](https://www.linkedin.com/in/theoperson/)
 
 - ⚡ Security fact **Social Engineering Attacks are very common and easy, be aware from it, be aware from what you don't expect**
 
