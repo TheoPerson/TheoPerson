@@ -12,9 +12,9 @@
 <br> 
 <br>            
 
-- 🔭 I’m currently working on [Akigora - Data analysis- AI search engine](https://akigora.com)          
+- 🔭 I’m currently working on [Weenove - Project Manager]([https://akigora.com](https://www.weenove.fr/))          
 
-- 🌱 I’m currently learning **Data Analytics / Data cleaning**
+- 🌱 I’m currently learning **Data Analytics / LLM Engineering / AI development**
 
 - 👨‍💻 All of my projects are available in my public [repositories](https://bit.ly/3XfcDI6)
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **list of my favorite languages below**
 
-- 📫 To reach me [Discord](discord.gg/T8efrpX), [mail](mailto:theo.person@epsi.fr?subject=[Contact]) or [Twitter](https://twitter.com/intent/user?screen_name=jug_sec)
+- 📫 To reach me: [mail](mailto:theo.person@epsi.fr?subject=[Contact]) or [Twitter](https://twitter.com/intent/user?screen_name=jug_sec)
 
 - 📄 Know about my experiences: Resume coming soon...
 
