@@ -12,11 +12,11 @@
 <br> 
 <br>            
 
-- 🔭 I’m currently working on [Weenove - Project Manager]([https://akigora.com](https://www.weenove.fr/))
+- 🔭 I’m currently working at [Weenove - as AI Project Manager]([https://www.weenove.fr/])
 
 - 🌱 I’m currently learning **Data Analytics / LLM Engineering / AI development**
 
-- 👨‍💻 All of my projects are available in my public [repositories](https://bit.ly/3XfcDI6)
+- 👨‍💻 All of my projects are available in my public [repositories.](https://bit.ly/3XfcDI6)
 
 - 📝 I regularly write articles on [My Twitter page](https://twitter.com/JUG_SEC)
 
