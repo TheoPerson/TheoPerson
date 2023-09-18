@@ -12,7 +12,7 @@
 <br> 
 <br>            
 
-- 🔭 I’m currently working on [Weenove - Project Manager]([https://akigora.com](https://www.weenove.fr/))          
+- 🔭 I’m currently working on [Weenove - Project Manager]([https://akigora.com](https://www.weenove.fr/)        
 
 - 🌱 I’m currently learning **Data Analytics / LLM Engineering / AI development**
 
