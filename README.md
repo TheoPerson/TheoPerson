@@ -3,48 +3,35 @@
 
   <br />
 
-  <a href="https://jugsec.com"><img src="https://img.shields.io/badge/Portfolio-jugsec.com-111827?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/theoperson"><img src="https://img.shields.io/badge/LinkedIn-Théo_Person-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/JUG_SEC"><img src="https://img.shields.io/badge/X-@JUG__SEC-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:theo.person@epsi.fr"><img src="https://img.shields.io/badge/Email-Let's_talk-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email Théo" /></a>
+  <a href="https://jugsec.com"><strong>Portfolio ↗</strong></a> ·
+  <a href="https://www.linkedin.com/in/theoperson">LinkedIn</a> ·
+  <a href="https://x.com/JUG_SEC">X</a> ·
+  <a href="mailto:theo.person@epsi.fr">Email</a>
 </div>
 
 ## About
 
-I'm an **AI Project Manager at [Weenove](https://www.weenove.fr/)** and a product-minded builder based between France and the UK. I work where **AI delivery, data, LLM engineering, and web products** meet—turning rough ideas into clear, useful systems.
+I'm an **AI Project Manager at [Weenove](https://www.weenove.fr/)** and a product-minded builder based between France and the UK. I work where **AI delivery, data, LLM engineering, and web products** meet—turning ambiguous ideas into clear, useful systems.
 
-- Leading AI projects from discovery to delivery
-- Exploring practical LLM workflows and data-driven products
-- Building focused tools around esports, automation, and digital experiences
+### Now
+
+- Leading AI projects from discovery through delivery
+- Exploring practical LLM workflows, analytics, and AI-assisted products
+- Building focused tools around esports, automation, and polished web experiences
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TheoPerson/Rareness">Rareness ↗</a></h3>
-      <p>A minimalist web experience for tracking rare assets and analytics, designed around speed and clarity.</p>
-      <p><code>Frontend</code> <code>UI/UX</code> <code>Data</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TheoPerson/Feed">Calendar Feeds ↗</a></h3>
-      <p>Subscription-ready iCalendar feeds that keep CS2, R6, and sports events in sync across calendar apps.</p>
-      <p><code>Automation</code> <code>ICS</code> <code>Esports</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TheoPerson/WEB-RESPONSIVE-WET">Responsive Dashboard ↗</a></h3>
-      <p>A multi-page dashboard experiment spanning analytics, chat, calendars, and responsive layouts.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/TheoPerson/MessageCleaner">Message Cleaner ↗</a></h3>
-      <p>A focused Discord moderation bot for safely cleaning channel history through slash commands.</p>
-      <p><code>Node.js</code> <code>Discord.js</code> <code>Automation</code></p>
-    </td>
-  </tr>
-</table>
+**[Rareness ↗](https://github.com/TheoPerson/Rareness)** · [live demo](https://rareness.vercel.app)  
+League of Legends skin collection with a focused web interface for browsing and tracking assets. `Web` · `Frontend` · `Data`
+
+**[JUG_SEC.COM V2 ↗](https://github.com/TheoPerson/JUG_SEC.COM---V2)**  
+The second iteration of my personal portfolio and hub, with a stronger visual direction and clearer product surface. `HTML` · `CSS` · `JavaScript`
+
+**[Calendar Feeds ↗](https://github.com/TheoPerson/Feed)**  
+Subscription-ready `.ics` feeds for CS2, R6, and sports events across Google, Apple, and Outlook calendars. `Automation` · `ICS` · `Esports`
+
+**[Responsive Dashboard ↗](https://github.com/TheoPerson/WEB-RESPONSIVE-WET)**  
+A multi-page frontend study spanning analytics, chat, calendars, and responsive layouts. `HTML` · `CSS` · `JavaScript`
 
 ## Toolbox
 
@@ -54,9 +41,7 @@ I'm an **AI Project Manager at [Weenove](https://www.weenove.fr/)** and a produc
 
 <br />
 
-| AI & data | Web | Delivery |
-| :--- | :--- | :--- |
-| LLM workflows · Python · Analytics | TypeScript · JavaScript · Node.js · PHP | Product strategy · Project management · GitHub |
+<div align="center"><sub>AI & data · LLM workflows · Python · Analytics &nbsp; • &nbsp; Web · TypeScript · JavaScript · Node.js · PHP &nbsp; • &nbsp; Delivery · Product strategy · Project management · GitHub</sub></div>
 
 ## Activity
 
@@ -65,11 +50,6 @@ I'm an **AI Project Manager at [Weenove](https://www.weenove.fr/)** and a produc
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=8B949E&amp;icon_color=7C3AED" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=4F46E5&amp;text_color=475569&amp;icon_color=7C3AED" />
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="Théo's GitHub activity" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=4F46E5&amp;text_color=475569" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&amp;layout=compact&amp;hide_border=true" alt="Théo's most-used public repository languages" />
   </picture>
 </div>
 
