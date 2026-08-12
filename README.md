@@ -1,66 +1,78 @@
-<h1 align="center">Hi 👋, I'm Théo 'JUG'</h1>
-<h3 align="center">AI Project Manager | Data Analytics & LLM Engineering Enthusiast | France / UK</h3>
+<div align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager, LLM engineering, data and web products" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheoPerson&label=Profile%20views&color=0e75b6&style=flat" alt="TheoPerson" />
-  <a href="https://twitter.com/JUG_SEC">
-    <img src="https://img.shields.io/twitter/follow/JUG_SEC?logo=twitter&style=flat&color=1DA1F2&labelColor=1c1917" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/theoperson">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+  <br />
 
-<p align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
-</p>
+  <a href="https://jugsec.com"><img src="https://img.shields.io/badge/Portfolio-jugsec.com-111827?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/theoperson"><img src="https://img.shields.io/badge/LinkedIn-Théo_Person-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/JUG_SEC"><img src="https://img.shields.io/badge/X-@JUG__SEC-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:theo.person@epsi.fr"><img src="https://img.shields.io/badge/Email-Let's_talk-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email Théo" /></a>
+</div>
 
----
+## About
 
-### 👨‍💻 About Me
+I'm an **AI Project Manager at [Weenove](https://www.weenove.fr/)** and a product-minded builder based between France and the UK. I work where **AI delivery, data, LLM engineering, and web products** meet—turning rough ideas into clear, useful systems.
 
-- 🔭 I’m currently working as an **AI Project Manager** at [Weenove](https://www.weenove.fr/)
-- 🌱 I’m currently diving deep into **Data Analytics, LLM Engineering, and AI development**
-- 💬 Ask me about **AI, Web Development, or my favorite tech stack!**
-- ⚡ **Security Fact:** Social Engineering Attacks are very common and easy; be aware of them, and expect the unexpected.
+- Leading AI projects from discovery to delivery
+- Exploring practical LLM workflows and data-driven products
+- Building focused tools around esports, automation, and digital experiences
 
----
+## Selected work
 
-### 🛠️ Tech Stack & Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheoPerson/Rareness">Rareness ↗</a></h3>
+      <p>A minimalist web experience for tracking rare assets and analytics, designed around speed and clarity.</p>
+      <p><code>Frontend</code> <code>UI/UX</code> <code>Data</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheoPerson/Feed">Calendar Feeds ↗</a></h3>
+      <p>Subscription-ready iCalendar feeds that keep CS2, R6, and sports events in sync across calendar apps.</p>
+      <p><code>Automation</code> <code>ICS</code> <code>Esports</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheoPerson/WEB-RESPONSIVE-WET">Responsive Dashboard ↗</a></h3>
+      <p>A multi-page dashboard experiment spanning analytics, chat, calendars, and responsive layouts.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/TheoPerson/MessageCleaner">Message Cleaner ↗</a></h3>
+      <p>A focused Discord moderation bot for safely cleaning channel history through slash commands.</p>
+      <p><code>Node.js</code> <code>Discord.js</code> <code>Automation</code></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,php,java,html,css" alt="Languages" />
-  </a>
-</p>
+## Toolbox
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,android" alt="Platforms" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,php,java,html,css,git,github,vercel&perline=11" alt="Python, TypeScript, JavaScript, Node.js, PHP, Java, HTML, CSS, Git, GitHub, and Vercel" />
+</div>
 
----
+<br />
 
-### 📊 GitHub Stats
+| AI & data | Web | Delivery |
+| :--- | :--- | :--- |
+| LLM workflows · Python · Analytics | TypeScript · JavaScript · Node.js · PHP | Product strategy · Project management · GitHub |
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoPerson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## Activity
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=8B949E&amp;icon_color=7C3AED" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=4F46E5&amp;text_color=475569&amp;icon_color=7C3AED" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="Théo's GitHub activity" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=4F46E5&amp;text_color=475569" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&amp;layout=compact&amp;hide_border=true" alt="Théo's most-used public repository languages" />
+  </picture>
+</div>
 
-### 📫 Let's Connect
+<br />
 
-<p align="center">
-  <a href="mailto:theo.person@epsi.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/JUG_SEC"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/theoperson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
-</p>
+<p align="center"><sub>Build with intent. Ship with clarity.</sub></p>
