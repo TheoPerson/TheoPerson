@@ -1,0 +1,72 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System overview</title>
+  <desc id="desc">Théo's role, current product focus, and operating principles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D14"/><stop offset="1" stop-color="#0E1220"/>
+    </linearGradient>
+    <linearGradient id="line" x1="44" y1="20" x2="1148" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3EE8F2"/><stop offset="0.52" stop-color="#7E8FFF"/><stop offset="1" stop-color="#BE77FF"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8293B1" fill-opacity="0.06"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="310" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="310" fill="url(#bg)"/>
+    <rect width="1200" height="310" fill="url(#dots)"/>
+    <rect x="28" y="28" width="1144" height="254" rx="18" fill="#0A0F18" fill-opacity="0.64" stroke="#27334A"/>
+    <path d="M409 48V262M791 48V262" stroke="#253047"/>
+
+    <g transform="translate(56 58)">
+      <text fill="#6E819F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.4">01 / ROLE</text>
+      <circle cx="6" cy="51" r="6" fill="#43E7F4" fill-opacity="0.14" stroke="#43E7F4"/>
+      <text x="23" y="57" fill="#E8EEFA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">AI delivery / product craft</text>
+      <text y="101" fill="#98A9C5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">I turn ambiguous ideas into clear,</text>
+      <text y="126" fill="#98A9C5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">useful systems people can actually use.</text>
+      <g transform="translate(0 158)">
+        <rect width="106" height="29" rx="14.5" fill="#10222B" stroke="#1D5966"/>
+        <text x="16" y="19" fill="#7DEAF2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">AI PROJECTS</text>
+        <rect x="116" width="106" height="29" rx="14.5" fill="#171D35" stroke="#37457A"/>
+        <text x="136" y="19" fill="#AEBBFF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">FRONTEND</text>
+      </g>
+    </g>
+
+    <g transform="translate(438 58)">
+      <text fill="#6E819F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.4">02 / CURRENT SIGNAL</text>
+      <text y="57" fill="#E8EEFA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">Compact product systems</text>
+      <g transform="translate(0 80)">
+        <rect width="325" height="38" rx="10" fill="#0E1621" stroke="#2B384F"/>
+        <circle cx="18" cy="19" r="4" fill="#55E6D0"><animate attributeName="opacity" values=".3;1;.3" dur="2.2s" repeatCount="indefinite"/></circle>
+        <text x="32" y="24" fill="#B9C6DB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">SYLEPSE / AMBIENT AVIATION</text>
+        <rect y="48" width="325" height="38" rx="10" fill="#0E1621" stroke="#2B384F"/>
+        <circle cx="18" cy="67" r="4" fill="#B78CFF"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+        <text x="32" y="72" fill="#B9C6DB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">ALAN DB / CINEMA SYSTEM</text>
+        <rect y="96" width="325" height="38" rx="10" fill="#0E1621" stroke="#2B384F"/>
+        <circle cx="18" cy="115" r="4" fill="#F3C86A"/>
+        <text x="32" y="120" fill="#B9C6DB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">RARENESS / COLLECTION UX</text>
+      </g>
+    </g>
+
+    <g transform="translate(820 58)">
+      <text fill="#6E819F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.4">03 / OPERATING MODE</text>
+      <text y="57" fill="#E8EEFA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">Clarity over noise.</text>
+      <g fill="#A8B7D0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">
+        <text x="22" y="101">Frame the right problem</text>
+        <text x="22" y="137">Prototype the real behavior</text>
+        <text x="22" y="173">Ship, observe, sharpen</text>
+      </g>
+      <g fill="#7E91B1">
+        <path d="M1 94L7 100L15 89" stroke="#67E8F9" stroke-width="2"/>
+        <path d="M1 130L7 136L15 125" stroke="#8FA0FF" stroke-width="2"/>
+        <path d="M1 166L7 172L15 161" stroke="#C58AFF" stroke-width="2"/>
+      </g>
+      <path d="M0 201H318" stroke="#263249"/>
+      <text y="218" fill="#7084A4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.4">FRANCE / UK · REMOTE-NATIVE</text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="308" rx="23" stroke="#35425B" stroke-width="2"/>
+    <path d="M24 1H332" stroke="url(#line)" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0 308;308 0;0 308" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

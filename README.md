@@ -1,58 +1,70 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager, LLM engineering, data and web products" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager and product builder" />
 
   <br />
 
-  <a href="https://jugsec.com"><strong>Portfolio ↗</strong></a> ·
-  <a href="https://www.linkedin.com/in/theoperson">LinkedIn</a> ·
-  <a href="https://x.com/JUG_SEC">X</a> ·
+  <a href="https://alandatabase.com"><strong>Live products ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/theoperson">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/JUG_SEC">X / @JUG_SEC</a>
+  &nbsp;·&nbsp;
   <a href="mailto:theo.person@epsi.fr">Email</a>
 </div>
 
-## About
+<br />
 
-I'm an **AI Project Manager at [Weenove](https://www.weenove.fr/)** and a product-minded builder based between France and the UK. I work where **AI delivery, data, LLM engineering, and web products** meet—turning ambiguous ideas into clear, useful systems.
+<img src="./assets/system-overview.svg" width="100%" alt="Profile overview — AI delivery, product building, and current focus" />
 
-### Now
+## Selected systems
 
-- Leading AI projects from discovery through delivery
-- Exploring practical LLM workflows, analytics, and AI-assisted products
-- Building focused tools around esports, automation, and polished web experiences
+<a href="https://github.com/TheoPerson/Sylepse">
+  <img src="./assets/project-sylepse.svg" width="100%" alt="Sylepse — ambient aircraft identification operating system" />
+</a>
 
-## Selected work
-
-**[Rareness ↗](https://github.com/TheoPerson/Rareness)** · [live demo](https://rareness.vercel.app)  
-League of Legends skin collection with a focused web interface for browsing and tracking assets. `Web` · `Frontend` · `Data`
-
-**[JUG_SEC.COM V2 ↗](https://github.com/TheoPerson/JUG_SEC.COM---V2)**  
-The second iteration of my personal portfolio and hub, with a stronger visual direction and clearer product surface. `HTML` · `CSS` · `JavaScript`
-
-**[Calendar Feeds ↗](https://github.com/TheoPerson/Feed)**  
-Subscription-ready `.ics` feeds for CS2, R6, and sports events across Google, Apple, and Outlook calendars. `Automation` · `ICS` · `Esports`
-
-**[Responsive Dashboard ↗](https://github.com/TheoPerson/WEB-RESPONSIVE-WET)**  
-A multi-page frontend study spanning analytics, chat, calendars, and responsive layouts. `HTML` · `CSS` · `JavaScript`
-
-## Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,php,java,html,css,git,github,vercel&perline=11" alt="Python, TypeScript, JavaScript, Node.js, PHP, Java, HTML, CSS, Git, GitHub, and Vercel" />
+<div align="right">
+  <a href="https://sylepse-v2-app.netlify.app"><strong>Open live app ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson/Sylepse">Source</a>
 </div>
 
 <br />
 
-<div align="center"><sub>AI & data · LLM workflows · Python · Analytics &nbsp; • &nbsp; Web · TypeScript · JavaScript · Node.js · PHP &nbsp; • &nbsp; Delivery · Product strategy · Project management · GitHub</sub></div>
+<a href="https://github.com/TheoPerson/the-alans-data-base">
+  <img src="./assets/project-alans.svg" width="100%" alt="The Alan's Data Base — open-source cinema operating system" />
+</a>
 
-## Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=8B949E&amp;icon_color=7C3AED" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=4F46E5&amp;text_color=475569&amp;icon_color=7C3AED" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheoPerson&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="Théo's GitHub activity" />
-  </picture>
+<div align="right">
+  <a href="https://alandatabase.com"><strong>Visit product ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson/the-alans-data-base">Source</a>
 </div>
 
 <br />
 
-<p align="center"><sub>Build with intent. Ship with clarity.</sub></p>
+<a href="https://github.com/TheoPerson/Rareness">
+  <img src="./assets/project-rareness.svg" width="100%" alt="Rareness — League of Legends skin collection system" />
+</a>
+
+<div align="right">
+  <a href="https://rareness.vercel.app"><strong>Open live app ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson/Rareness">Source</a>
+</div>
+
+## Operating stack
+
+<img src="./assets/toolkit.svg" width="100%" alt="Théo's operating stack across AI, product, web, and delivery" />
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/TheoPerson?tab=repositories"><strong>Explore all repositories</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson?tab=stars">Signals I follow</a>
+</div>
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Build with intent. Ship with clarity." />
+

@@ -1,0 +1,63 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">The Alan's Data Base</title>
+  <desc id="desc">An open-source cinema operating system built with SvelteKit, Drizzle, PostgreSQL, and TMDB.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#100B14"/><stop offset="0.55" stop-color="#11101A"/><stop offset="1" stop-color="#151020"/></linearGradient>
+    <linearGradient id="accent" x1="42" y1="28" x2="1156" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#F4A7E8"/><stop offset="0.52" stop-color="#B48BFF"/><stop offset="1" stop-color="#7F8FFF"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1012 122) rotate(180) scale(326 228)"><stop stop-color="#A855F7" stop-opacity="0.16"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+    <pattern id="grain" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.8" fill="#DAB8FF" fill-opacity="0.035"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="270" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="270" fill="url(#bg)"/>
+    <rect width="1200" height="270" fill="url(#grain)"/>
+    <rect width="1200" height="270" fill="url(#glow)"/>
+    <path d="M760 0V270" stroke="#30223C"/>
+
+    <g transform="translate(52 42)">
+      <text fill="#B785C4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.6">02 / CINEMA OPERATING SYSTEM</text>
+      <text y="57" fill="#FFF7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="750" letter-spacing="-1.4">THE ALAN'S DATA BASE</text>
+      <text y="91" fill="#C5B3CC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">A personal cinema universe for discovering, tracking and</text>
+      <text y="117" fill="#C5B3CC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">organizing films through one deliberate product surface.</text>
+      <g transform="translate(0 145)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">
+        <rect width="94" height="30" rx="15" fill="#221629" stroke="#5A3568"/><text x="20" y="20" fill="#E3B1ED">SVELTEKIT</text>
+        <rect x="104" width="98" height="30" rx="15" fill="#221629" stroke="#5A3568"/><text x="126" y="20" fill="#E3B1ED">DRIZZLE</text>
+        <rect x="212" width="112" height="30" rx="15" fill="#221629" stroke="#5A3568"/><text x="233" y="20" fill="#E3B1ED">POSTGRES</text>
+        <rect x="334" width="72" height="30" rx="15" fill="#221629" stroke="#5A3568"/><text x="354" y="20" fill="#E3B1ED">TMDB</text>
+      </g>
+    </g>
+
+    <g transform="translate(770 36)">
+      <g transform="rotate(-5 70 99)">
+        <rect width="140" height="198" rx="14" fill="#171221" stroke="#513566"/>
+        <rect x="12" y="12" width="116" height="124" rx="9" fill="#251934"/>
+        <circle cx="70" cy="69" r="36" fill="#B26CDE" fill-opacity="0.12"/>
+        <path d="M48 90L69 47L92 90H48Z" stroke="#CF9AF0" stroke-width="2"/>
+        <text x="13" y="160" fill="#F5E9FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">FEATURED</text>
+        <text x="13" y="180" fill="#8E789D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">CURATED / 02:17:34</text>
+      </g>
+
+      <g transform="translate(134 15) rotate(5 70 92)">
+        <rect width="140" height="184" rx="14" fill="#161521" stroke="#3E4168"/>
+        <rect x="12" y="12" width="116" height="108" rx="9" fill="#1E2033"/>
+        <circle cx="70" cy="65" r="32" stroke="#6977C7" stroke-dasharray="5 7"><animateTransform attributeName="transform" type="rotate" values="0 70 65;360 70 65" dur="18s" repeatCount="indefinite"/></circle>
+        <circle cx="70" cy="65" r="8" fill="#8C9AFF"/>
+        <text x="13" y="145" fill="#F0F1FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">WATCHLIST</text>
+        <text x="13" y="165" fill="#797F9E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">128 TITLES / SYNCED</text>
+      </g>
+
+      <g transform="translate(292 33)">
+        <ellipse cx="70" cy="19" rx="70" ry="19" fill="#21182B" stroke="#583D6C"/>
+        <path d="M0 19V138C0 149 31 158 70 158C109 158 140 149 140 138V19" fill="#17131F" stroke="#583D6C"/>
+        <ellipse cx="70" cy="138" rx="70" ry="20" fill="#1C1525" stroke="#583D6C"/>
+        <path d="M0 61C0 72 31 80 70 80C109 80 140 72 140 61M0 101C0 112 31 120 70 120C109 120 140 112 140 101" stroke="#583D6C"/>
+        <circle cx="70" cy="19" r="5" fill="#D9A8F7"><animate attributeName="opacity" values=".25;1;.25" dur="2.7s" repeatCount="indefinite"/></circle>
+        <text x="42" y="67" fill="#A888B4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">CINEMA DB</text>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="268" rx="21" stroke="#42304F" stroke-width="2"/>
+    <path d="M24 1H350" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="1168" cy="24" r="4" fill="#C08BFF"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
