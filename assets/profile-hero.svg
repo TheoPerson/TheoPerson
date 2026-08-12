@@ -1,0 +1,76 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Théo Person — JUG</title>
+  <desc id="desc">Minimal dark profile banner for an AI project manager working with LLM engineering, data, and web products.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" />
+      <stop offset="0.55" stop-color="#101827" />
+      <stop offset="1" stop-color="#151126" />
+    </linearGradient>
+    <linearGradient id="accent" x1="76" y1="46" x2="1124" y2="314" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.48" stop-color="#818CF8" />
+      <stop offset="1" stop-color="#C084FC" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 112) rotate(143) scale(338 251)">
+      <stop stop-color="#7C3AED" stop-opacity="0.24" />
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#94A3B8" stroke-opacity="0.06" />
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" />
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="28" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <rect width="1200" height="360" fill="url(#glow)" />
+
+    <g opacity="0.7">
+      <circle cx="1013" cy="93" r="5" fill="#22D3EE">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="1082" cy="158" r="4" fill="#A78BFA">
+        <animate attributeName="opacity" values="1;0.25;1" dur="4s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="951" cy="214" r="3" fill="#818CF8">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite" />
+      </circle>
+      <path d="M951 214L1013 93L1082 158L1117 79" stroke="url(#accent)" stroke-opacity="0.36" />
+      <circle cx="1013" cy="93" r="26" fill="#22D3EE" fill-opacity="0.12" filter="url(#softGlow)">
+        <animate attributeName="r" values="20;31;20" dur="4s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <g transform="translate(84 70)">
+      <text fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="600" letter-spacing="4">THÉO PERSON / JUG</text>
+      <text y="69" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4">AI PROJECT MANAGER</text>
+      <text y="108" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" letter-spacing="1.2">LLM ENGINEERING · DATA · WEB PRODUCTS</text>
+
+      <g transform="translate(0 148)">
+        <rect width="620" height="72" rx="14" fill="#090D13" fill-opacity="0.72" stroke="#30363D" />
+        <circle cx="23" cy="23" r="4" fill="#FF7B72" />
+        <circle cx="39" cy="23" r="4" fill="#D29922" />
+        <circle cx="55" cy="23" r="4" fill="#3FB950" />
+        <text x="22" y="52" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">&gt; shipping ideas into useful systems</text>
+        <rect x="381" y="38" width="9" height="18" rx="1" fill="#A5B4FC">
+          <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite" />
+        </rect>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="358" rx="27" stroke="url(#accent)" stroke-opacity="0.44" stroke-width="2" stroke-dasharray="320 980">
+      <animate attributeName="stroke-dashoffset" values="1300;0" dur="9s" repeatCount="indefinite" />
+    </rect>
+    <rect y="-80" width="1200" height="80" fill="url(#accent)" opacity="0.035">
+      <animate attributeName="y" values="-80;440" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
