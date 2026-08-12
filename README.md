@@ -1,25 +1,38 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager and product builder" />
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/profile-hero-mobile.svg" />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager and product builder" />
+  </picture>
 
   <br />
 
-  <a href="https://alandatabase.com"><strong>Live products ↗</strong></a>
+  <a href="https://alandatabase.com"><strong>Product hub ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/theoperson">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/JUG_SEC">X / @JUG_SEC</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:theo.person@epsi.fr">Email</a>
 </div>
 
 <br />
 
-<img src="./assets/system-overview.svg" width="100%" alt="Profile overview — AI delivery, product building, and current focus" />
+<p align="center">
+  <strong>AI Project Manager &amp; product builder</strong> turning ambiguous ideas into useful systems — from LLM workflows and data products to polished web experiences.
+</p>
 
-## Selected systems
+<br />
+
+<picture>
+  <source media="(max-width: 680px)" srcset="./assets/system-overview-mobile.svg" />
+  <img src="./assets/system-overview.svg" width="100%" alt="Profile overview — AI delivery, product building, and current focus" />
+</picture>
+
+## Selected work
 
 <a href="https://github.com/TheoPerson/Sylepse">
-  <img src="./assets/project-sylepse.svg" width="100%" alt="Sylepse — ambient aircraft identification operating system" />
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/project-sylepse-mobile.svg" />
+    <img src="./assets/project-sylepse.svg" width="100%" alt="Sylepse — ambient aircraft identification operating system" />
+  </picture>
 </a>
 
 <div align="right">
@@ -31,7 +44,10 @@
 <br />
 
 <a href="https://github.com/TheoPerson/the-alans-data-base">
-  <img src="./assets/project-alans.svg" width="100%" alt="The Alan's Data Base — open-source cinema operating system" />
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/project-alans-mobile.svg" />
+    <img src="./assets/project-alans.svg" width="100%" alt="The Alan's Data Base — open-source cinema operating system" />
+  </picture>
 </a>
 
 <div align="right">
@@ -43,7 +59,10 @@
 <br />
 
 <a href="https://github.com/TheoPerson/Rareness">
-  <img src="./assets/project-rareness.svg" width="100%" alt="Rareness — League of Legends skin collection system" />
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/project-rareness-mobile.svg" />
+    <img src="./assets/project-rareness.svg" width="100%" alt="Rareness — League of Legends skin collection system" />
+  </picture>
 </a>
 
 <div align="right">
@@ -54,17 +73,24 @@
 
 ## Operating stack
 
-<img src="./assets/toolkit.svg" width="100%" alt="Théo's operating stack across AI, product, web, and delivery" />
+<picture>
+  <source media="(max-width: 680px)" srcset="./assets/toolkit-mobile.svg" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Théo's operating stack across AI, product, web, and delivery" />
+</picture>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/TheoPerson?tab=repositories"><strong>Explore all repositories</strong></a>
+  <strong>Building something ambitious?</strong>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/theoperson"><strong>Let's connect ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/TheoPerson?tab=stars">Signals I follow</a>
+  <a href="https://github.com/TheoPerson?tab=repositories">Explore all repositories</a>
 </div>
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="Build with intent. Ship with clarity." />
-
+<picture>
+  <source media="(max-width: 680px)" srcset="./assets/footer-mobile.svg" />
+  <img src="./assets/footer.svg" width="100%" alt="Build with intent. Ship with clarity." />
+</picture>
