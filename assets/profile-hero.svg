@@ -1,0 +1,121 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Théo Person — JUG</title>
+  <desc id="desc">Dark animated profile banner for an AI project manager and product builder.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B11"/>
+      <stop offset="0.58" stop-color="#0C1220"/>
+      <stop offset="1" stop-color="#120D20"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="54" y1="26" x2="1140" y2="394" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#43E7F4"/>
+      <stop offset="0.5" stop-color="#7C8CFF"/>
+      <stop offset="1" stop-color="#C47CFF"/>
+    </linearGradient>
+    <linearGradient id="titleGradient" x1="72" y1="120" x2="676" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.68" stop-color="#DCE4FF"/>
+      <stop offset="1" stop-color="#AFC4FF"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 38) rotate(138) scale(458 360)">
+      <stop stop-color="#7C3AED" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(802 334) rotate(-44) scale(330 220)">
+      <stop stop-color="#22D3EE" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#9CB4D8" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="blur20" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <filter id="blur8" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="420" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+    <rect width="1200" height="420" fill="url(#violetGlow)"/>
+    <rect width="1200" height="420" fill="url(#cyanGlow)"/>
+
+    <path d="M0 349C195 319 292 392 476 358C660 324 760 270 932 305C1067 333 1128 324 1200 295" stroke="url(#accent)" stroke-opacity="0.08" stroke-width="54" filter="url(#blur20)"/>
+
+    <g transform="translate(72 48)">
+      <circle cx="5" cy="5" r="5" fill="#5EEAD4">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="20" y="10" fill="#7F91AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2.2">PROFILE / ONLINE</text>
+      <path d="M168 5H340" stroke="#253047"/>
+      <circle cx="348" cy="5" r="2" fill="#485A7A"/>
+    </g>
+
+    <g transform="translate(72 116)">
+      <text fill="#8191AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="4">THÉO PERSON / JUG</text>
+      <text y="68" fill="url(#titleGradient)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="760" letter-spacing="-2.4">AI PROJECT MANAGER</text>
+      <text y="111" fill="#A8B7D4" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Product builder working from signal to shipped system.</text>
+
+      <g transform="translate(0 152)">
+        <rect width="616" height="82" rx="14" fill="#080C13" fill-opacity="0.82" stroke="#273248"/>
+        <rect x="1" y="1" width="614" height="80" rx="13" stroke="url(#accent)" stroke-opacity="0.09"/>
+        <circle cx="22" cy="21" r="4" fill="#FF7B72"/>
+        <circle cx="38" cy="21" r="4" fill="#D6A84B"/>
+        <circle cx="54" cy="21" r="4" fill="#42C86A"/>
+        <text x="22" y="57" fill="#D8E1F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">&gt; llm systems · data products · high-signal interfaces</text>
+        <rect x="531" y="43" width="9" height="19" rx="1" fill="#9DB2FF">
+          <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.43;0.5;0.93;1" dur="1.15s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <g transform="translate(858 210)">
+      <circle r="128" fill="#101827" fill-opacity="0.5" stroke="#293650"/>
+      <circle r="98" stroke="#43506B" stroke-opacity="0.7" stroke-dasharray="3 9">
+        <animateTransform attributeName="transform" type="rotate" values="0;360" dur="28s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="68" stroke="url(#accent)" stroke-opacity="0.44" stroke-dasharray="74 18 15 28">
+        <animateTransform attributeName="transform" type="rotate" values="360;0" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="38" fill="#111A2B" stroke="#6778A6" stroke-opacity="0.5"/>
+      <circle r="11" fill="#8DA2FF" fill-opacity="0.2" filter="url(#blur8)">
+        <animate attributeName="r" values="8;18;8" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="5" fill="#C3CEFF"/>
+
+      <g fill="#9EB1D4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.4">
+        <text x="-23" y="-112">DISCOVER</text>
+        <text x="85" y="8">SHIP</text>
+        <text x="-25" y="118">ITERATE</text>
+        <text x="-124" y="8">CLARIFY</text>
+      </g>
+
+      <g>
+        <circle cx="-68" cy="-44" r="4" fill="#43E7F4"/>
+        <circle cx="79" cy="-58" r="4" fill="#8EA1FF"/>
+        <circle cx="67" cy="75" r="4" fill="#C47CFF"/>
+        <path d="M-68-44L0 0L79-58M0 0L67 75" stroke="url(#accent)" stroke-opacity="0.34"/>
+      </g>
+    </g>
+
+    <g transform="translate(1054 332)">
+      <text fill="#536482" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">FR / UK</text>
+      <text y="19" fill="#AFC0DE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.4">UTC+01</text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="418" rx="27" stroke="#394662" stroke-opacity="0.72" stroke-width="2"/>
+    <rect x="1" y="1" width="1198" height="418" rx="27" stroke="url(#accent)" stroke-opacity="0.75" stroke-width="2" stroke-dasharray="250 1400">
+      <animate attributeName="stroke-dashoffset" values="1650;0" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect y="-70" width="1200" height="70" fill="url(#accent)" opacity="0.025">
+      <animate attributeName="y" values="-70;490" dur="8.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
+

@@ -1,66 +1,96 @@
-<h1 align="center">Hi 👋, I'm Théo 'JUG'</h1>
-<h3 align="center">AI Project Manager | Data Analytics & LLM Engineering Enthusiast | France / UK</h3>
+<div align="center">
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/profile-hero-mobile.svg" />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager and product builder" />
+  </picture>
+
+  <br />
+
+  <a href="https://alandatabase.com"><strong>Product hub ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/theoperson">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/JUG_SEC">X / @JUG_SEC</a>
+</div>
+
+<br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheoPerson&label=Profile%20views&color=0e75b6&style=flat" alt="TheoPerson" />
-  <a href="https://twitter.com/JUG_SEC">
-    <img src="https://img.shields.io/twitter/follow/JUG_SEC?logo=twitter&style=flat&color=1DA1F2&labelColor=1c1917" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/theoperson">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <strong>AI Project Manager &amp; product builder</strong> turning ambiguous ideas into useful systems — from LLM workflows and data products to polished web experiences.
 </p>
 
-<p align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
-</p>
+<br />
 
----
+<picture>
+  <source media="(max-width: 680px)" srcset="./assets/system-overview-mobile.svg" />
+  <img src="./assets/system-overview.svg" width="100%" alt="Profile overview — AI delivery, product building, and current focus" />
+</picture>
 
-### 👨‍💻 About Me
+## Selected work
 
-- 🔭 I’m currently working as an **AI Project Manager** at [Weenove](https://www.weenove.fr/)
-- 🌱 I’m currently diving deep into **Data Analytics, LLM Engineering, and AI development**
-- 💬 Ask me about **AI, Web Development, or my favorite tech stack!**
-- ⚡ **Security Fact:** Social Engineering Attacks are very common and easy; be aware of them, and expect the unexpected.
+<a href="https://github.com/TheoPerson/Sylepse">
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/project-sylepse-mobile.svg" />
+    <img src="./assets/project-sylepse.svg" width="100%" alt="Sylepse — ambient aircraft identification operating system" />
+  </picture>
+</a>
 
----
+<div align="right">
+  <a href="https://sylepse-v2-app.netlify.app"><strong>Open live app ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson/Sylepse">Source</a>
+</div>
 
-### 🛠️ Tech Stack & Tools
+<br />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,php,java,html,css" alt="Languages" />
-  </a>
-</p>
+<a href="https://github.com/TheoPerson/the-alans-data-base">
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/project-alans-mobile.svg" />
+    <img src="./assets/project-alans.svg" width="100%" alt="The Alan's Data Base — open-source cinema operating system" />
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,android" alt="Platforms" />
-  </a>
-</p>
+<div align="right">
+  <a href="https://alandatabase.com"><strong>Visit product ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson/the-alans-data-base">Source</a>
+</div>
 
----
+<br />
 
-### 📊 GitHub Stats
+<a href="https://github.com/TheoPerson/Rareness">
+  <picture>
+    <source media="(max-width: 680px)" srcset="./assets/project-rareness-mobile.svg" />
+    <img src="./assets/project-rareness.svg" width="100%" alt="Rareness — League of Legends skin collection system" />
+  </picture>
+</a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoPerson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPerson&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="right">
+  <a href="https://rareness.vercel.app"><strong>Open live app ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson/Rareness">Source</a>
+</div>
 
----
+## Operating stack
 
-### 📫 Let's Connect
+<picture>
+  <source media="(max-width: 680px)" srcset="./assets/toolkit-mobile.svg" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Théo's operating stack across AI, product, web, and delivery" />
+</picture>
 
-<p align="center">
-  <a href="mailto:theo.person@epsi.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/JUG_SEC"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/theoperson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<br />
 
-<br>
+<div align="center">
+  <strong>Building something ambitious?</strong>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/theoperson"><strong>Let's connect ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheoPerson?tab=repositories">Explore all repositories</a>
+</div>
 
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
-</p>
+<br />
+
+<picture>
+  <source media="(max-width: 680px)" srcset="./assets/footer-mobile.svg" />
+  <img src="./assets/footer.svg" width="100%" alt="Build with intent. Ship with clarity." />
+</picture>

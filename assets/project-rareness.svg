@@ -1,0 +1,67 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rareness</title>
+  <desc id="desc">League of Legends skin collection and rarity tracking interface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#100F09"/><stop offset="0.58" stop-color="#121118"/><stop offset="1" stop-color="#16131F"/></linearGradient>
+    <linearGradient id="accent" x1="42" y1="28" x2="1154" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#F7D47C"/><stop offset="0.5" stop-color="#DB9E59"/><stop offset="1" stop-color="#9D78E8"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1012 126) rotate(180) scale(330 224)"><stop stop-color="#E3A949" stop-opacity="0.14"/><stop offset="1" stop-color="#E3A949" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#E6C071" stroke-opacity="0.028"/></pattern>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+    <clipPath id="clip"><rect width="1200" height="270" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="270" fill="url(#bg)"/>
+    <rect width="1200" height="270" fill="url(#grid)"/>
+    <rect width="1200" height="270" fill="url(#glow)"/>
+    <path d="M760 0V270" stroke="#39301F"/>
+
+    <g transform="translate(52 42)">
+      <text fill="#B99B5D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.6">03 / COLLECTION EXPERIENCE</text>
+      <text y="57" fill="#FFFBEF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="750" letter-spacing="-1.4">RARENESS</text>
+      <text y="91" fill="#C9C0AC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">A complete League of Legends skin collection shaped into</text>
+      <text y="117" fill="#C9C0AC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">a fast, visual browsing and rarity-tracking experience.</text>
+      <g transform="translate(0 145)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">
+        <rect width="72" height="30" rx="15" fill="#242016" stroke="#625431"/><text x="20" y="20" fill="#E8CF8D">LUA</text>
+        <rect x="82" width="82" height="30" rx="15" fill="#242016" stroke="#625431"/><text x="103" y="20" fill="#E8CF8D">DATA UX</text>
+        <rect x="174" width="108" height="30" rx="15" fill="#242016" stroke="#625431"/><text x="194" y="20" fill="#E8CF8D">DARK MODE</text>
+        <rect x="292" width="114" height="30" rx="15" fill="#242016" stroke="#625431"/><text x="313" y="20" fill="#E8CF8D">COLLECTION</text>
+      </g>
+    </g>
+
+    <g transform="translate(815 37)">
+      <rect width="152" height="194" rx="15" fill="#171611" stroke="#4B412B"/>
+      <rect x="12" y="12" width="128" height="119" rx="10" fill="#231F16"/>
+      <circle cx="76" cy="70" r="36" fill="#E7B653" fill-opacity="0.1" filter="url(#blur)"/>
+      <path d="M76 31L107 57L96 99L76 114L56 99L45 57L76 31Z" fill="#D2A44B" fill-opacity="0.12" stroke="#E8C875" stroke-width="2"/>
+      <path d="M45 57H107M56 99L76 57L96 99M76 31V114" stroke="#E8C875" stroke-opacity="0.6"/>
+      <text x="14" y="153" fill="#F9EBC2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">MYTHIC</text>
+      <text x="14" y="174" fill="#8F8265" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">OWNED / 14 OF 21</text>
+    </g>
+
+    <g transform="translate(985 52)">
+      <g>
+        <rect width="81" height="79" rx="12" fill="#181724" stroke="#3B3657"/>
+        <path d="M22 53L40 20L59 53L40 65L22 53Z" fill="#8B78D7" fill-opacity="0.2" stroke="#A896F1"/>
+        <circle cx="66" cy="14" r="4" fill="#A896F1"/>
+      </g>
+      <g transform="translate(91)">
+        <rect width="81" height="79" rx="12" fill="#191811" stroke="#4C4229"/>
+        <path d="M22 53L40 20L59 53L40 65L22 53Z" fill="#D8AA4F" fill-opacity="0.18" stroke="#E8C875"/>
+        <circle cx="66" cy="14" r="4" fill="#E8C875"/>
+      </g>
+      <g transform="translate(0 91)">
+        <rect width="81" height="79" rx="12" fill="#121A1B" stroke="#2C4B4F"/>
+        <path d="M22 53L40 20L59 53L40 65L22 53Z" fill="#4CB7B3" fill-opacity="0.16" stroke="#72D8D1"/>
+      </g>
+      <g transform="translate(91 91)">
+        <rect width="81" height="79" rx="12" fill="#1A1318" stroke="#553043"/>
+        <path d="M22 53L40 20L59 53L40 65L22 53Z" fill="#C35C91" fill-opacity="0.16" stroke="#E58AB6"/>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="268" rx="21" stroke="#4A4028" stroke-width="2"/>
+    <path d="M24 1H332" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="1168" cy="24" r="4" fill="#F2CD71"><animate attributeName="opacity" values=".25;1;.25" dur="2.9s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
+

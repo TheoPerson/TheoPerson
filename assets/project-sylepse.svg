@@ -1,0 +1,58 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sylepse</title>
+  <desc id="desc">Real-time ambient aircraft identification operating system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#071111"/><stop offset="0.62" stop-color="#091218"/><stop offset="1" stop-color="#0A1519"/></linearGradient>
+    <linearGradient id="accent" x1="42" y1="30" x2="1148" y2="246" gradientUnits="userSpaceOnUse"><stop stop-color="#79F4E2"/><stop offset="0.48" stop-color="#47DECE"/><stop offset="1" stop-color="#22AFC6"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 135) rotate(180) scale(282 218)"><stop stop-color="#39DDCF" stop-opacity="0.16"/><stop offset="1" stop-color="#39DDCF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#73EADF" stroke-opacity="0.035"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="270" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="270" fill="url(#bg)"/>
+    <rect width="1200" height="270" fill="url(#grid)"/>
+    <rect width="1200" height="270" fill="url(#glow)"/>
+    <path d="M760 0V270" stroke="#183036"/>
+
+    <g transform="translate(52 42)">
+      <text fill="#55BEB6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.6">01 / AMBIENT INTELLIGENCE</text>
+      <text y="57" fill="#F0FFFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="750" letter-spacing="-1.4">SYLEPSE</text>
+      <text y="91" fill="#A7C7C7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Hear an aircraft. Open the PWA. Identify the live flight</text>
+      <text y="117" fill="#A7C7C7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">before the sound fades — radar, model, route and photo.</text>
+      <g transform="translate(0 145)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">
+        <rect width="104" height="30" rx="15" fill="#0D2424" stroke="#205B56"/><text x="19" y="20" fill="#86EEE2">VANILLA JS</text>
+        <rect x="114" width="64" height="30" rx="15" fill="#0D2424" stroke="#205B56"/><text x="136" y="20" fill="#86EEE2">PWA</text>
+        <rect x="188" width="86" height="30" rx="15" fill="#0D2424" stroke="#205B56"/><text x="208" y="20" fill="#86EEE2">ADS-B</text>
+        <rect x="284" width="82" height="30" rx="15" fill="#0D2424" stroke="#205B56"/><text x="305" y="20" fill="#86EEE2">LEAFLET</text>
+      </g>
+    </g>
+
+    <g transform="translate(978 135)">
+      <circle r="105" stroke="#214045"/>
+      <circle r="78" stroke="#2B5B5C" stroke-dasharray="2 8">
+        <animateTransform attributeName="transform" type="rotate" values="0;360" dur="24s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="49" stroke="#3BA89F" stroke-opacity="0.55"/>
+      <path d="M0 0L73-73A103 103 0 0 1 98 28Z" fill="#53E3D4" fill-opacity="0.08">
+        <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0-11L4-2L23 5L23 10L4 7L2 23H-2L-4 7L-23 10V5L-4-2L0-11Z" fill="#D9FFFA" transform="rotate(31)"/>
+      <circle cx="-61" cy="39" r="4" fill="#62E7D9"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="67" cy="-27" r="3" fill="#62E7D9"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+      <text x="-9" y="-86" fill="#638B8D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">N</text>
+      <text x="84" y="4" fill="#638B8D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">E</text>
+    </g>
+
+    <g transform="translate(790 35)">
+      <rect width="152" height="69" rx="12" fill="#091518" stroke="#23464A"/>
+      <text x="14" y="22" fill="#5B8D8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.4">LIVE TARGET</text>
+      <text x="14" y="45" fill="#D7FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700">AFR 734</text>
+      <text x="14" y="60" fill="#74ADA9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">A320 · 2,480 FT</text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="268" rx="21" stroke="#234348" stroke-width="2"/>
+    <path d="M24 1H318" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="1168" cy="24" r="4" fill="#67E8D8"><animate attributeName="opacity" values=".25;1;.25" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
+
