@@ -32,8 +32,6 @@
 </a>
 
 <div align="right">
-  <a href="https://sylepse-v2-app.netlify.app"><strong>Open live app ↗</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://github.com/TheoPerson/Sylepse">Source</a>
 </div>
 
@@ -48,8 +46,6 @@
 
 <div align="right">
   <a href="https://github.com/TheoPerson/the-alans-data-base"><strong>Source ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/TheoPerson/the-alans-data-base">Source</a>
 </div>
 
 <br />
@@ -62,8 +58,6 @@
 </a>
 
 <div align="right">
-  <a href="https://rareness.vercel.app"><strong>Open live app ↗</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://github.com/TheoPerson/Rareness">Source</a>
 </div>
 
@@ -71,7 +65,7 @@
 
 <picture>
   <source media="(max-width: 680px)" srcset="./assets/toolkit-mobile.svg" />
-  <img src="./assets/toolkit.svg" width="100%" alt="Théo's operating stack across AI, product, web, and delivery" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Operating stack across AI, product, web, and delivery" />
 </picture>
 
 <br />
