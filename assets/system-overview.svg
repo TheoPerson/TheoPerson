@@ -1,6 +1,6 @@
 <svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">System overview</title>
-  <desc id="desc">Théo's role, current product focus, and operating principles.</desc>
+  <desc id="desc">Role, current product focus, and operating principles.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
       <stop stop-color="#090D14"/><stop offset="1" stop-color="#0E1220"/>
@@ -61,7 +61,7 @@
         <path d="M1 166L7 172L15 161" stroke="#C58AFF" stroke-width="2"/>
       </g>
       <path d="M0 201H318" stroke="#263249"/>
-      <text y="218" fill="#7084A4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.4">FRANCE / UK · REMOTE-NATIVE</text>
+      <text y="218" fill="#7084A4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.4">REMOTE-NATIVE</text>
     </g>
 
     <rect x="1" y="1" width="1198" height="308" rx="23" stroke="#35425B" stroke-width="2"/>
