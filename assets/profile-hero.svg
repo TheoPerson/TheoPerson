@@ -1,5 +1,5 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Théo Person — JUG</title>
+  <title id="title">AI Project Manager — profile</title>
   <desc id="desc">Dark animated profile banner for an AI project manager and product builder.</desc>
 
   <defs>
@@ -58,7 +58,7 @@
     </g>
 
     <g transform="translate(72 116)">
-      <text fill="#8191AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="4">THÉO PERSON / JUG</text>
+      <text fill="#8191AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="4">AI DELIVERY / PRODUCT</text>
       <text y="68" fill="url(#titleGradient)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="760" letter-spacing="-2.4">AI PROJECT MANAGER</text>
       <text y="111" fill="#A8B7D4" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Product builder working from signal to shipped system.</text>
 
@@ -105,8 +105,8 @@
     </g>
 
     <g transform="translate(1054 332)">
-      <text fill="#536482" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">FR / UK</text>
-      <text y="19" fill="#AFC0DE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.4">UTC+01</text>
+      <text fill="#536482" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">REMOTE</text>
+      <text y="19" fill="#AFC0DE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.4">ONLINE</text>
     </g>
 
     <rect x="1" y="1" width="1198" height="418" rx="27" stroke="#394662" stroke-opacity="0.72" stroke-width="2"/>
