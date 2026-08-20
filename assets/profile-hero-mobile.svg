@@ -1,5 +1,5 @@
 <svg width="760" height="520" viewBox="0 0 760 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Théo Person — AI Project Manager</title>
+  <title id="title">AI Project Manager — profile</title>
   <desc id="desc">Mobile profile banner for an AI project manager and product builder.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="760" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#080B11"/><stop offset=".6" stop-color="#0C1220"/><stop offset="1" stop-color="#160D25"/></linearGradient>
@@ -15,7 +15,7 @@
       <text x="21" y="10" fill="#7F91AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">PROFILE / ONLINE</text>
     </g>
     <g transform="translate(46 112)">
-      <text fill="#8191AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="3.4">THÉO PERSON / JUG</text>
+      <text fill="#8191AE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="3.4">AI DELIVERY / PRODUCT</text>
       <text y="64" fill="#F4F7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="48" font-weight="760" letter-spacing="-1.8">AI PROJECT MANAGER</text>
       <text y="108" fill="#B0BDD5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23">From signal to shipped system.</text>
       <g transform="translate(0 146)">
@@ -30,7 +30,7 @@
       <circle r="31" stroke="url(#accent)" stroke-opacity=".7" stroke-dasharray="36 14"><animateTransform attributeName="transform" type="rotate" values="360;0" dur="11s" repeatCount="indefinite"/></circle>
       <circle r="5" fill="#C3CEFF"/><path d="M0 0L38-38" stroke="#7C8CFF"/>
     </g>
-    <text x="46" y="446" fill="#7184A2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">FRANCE / UK · UTC+01</text>
+    <text x="46" y="446" fill="#7184A2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">REMOTE · ONLINE</text>
     <rect x="1" y="1" width="758" height="518" rx="27" stroke="#394662" stroke-width="2"/><rect x="1" y="1" width="758" height="518" rx="27" stroke="url(#accent)" stroke-width="2" stroke-dasharray="180 1180"><animate attributeName="stroke-dashoffset" values="1360;0" dur="10s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
