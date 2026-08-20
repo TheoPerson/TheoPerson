@@ -1,6 +1,6 @@
 <svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Build with intent. Ship with clarity.</title>
-  <desc id="desc">Closing statement for Théo Person's GitHub profile.</desc>
+  <desc id="desc">Closing statement for a product builder's GitHub profile.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="118" gradientUnits="userSpaceOnUse"><stop stop-color="#080C13"/><stop offset="1" stop-color="#0D101B"/></linearGradient>
     <linearGradient id="accent" x1="70" y1="59" x2="1130" y2="59" gradientUnits="userSpaceOnUse"><stop stop-color="#43E7F4" stop-opacity="0"/><stop offset="0.26" stop-color="#43E7F4"/><stop offset="0.55" stop-color="#8192FF"/><stop offset="0.78" stop-color="#C27CFF"/><stop offset="1" stop-color="#C27CFF" stop-opacity="0"/></linearGradient>
