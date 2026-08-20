@@ -1,22 +1,18 @@
 <div align="center">
   <picture>
     <source media="(max-width: 680px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Théo Person — AI Project Manager and product builder" />
+    <img src="./assets/profile-hero.svg" width="100%" alt="AI Project Manager and product builder" />
   </picture>
 
   <br />
 
-  <a href="https://alandatabase.com"><strong>Product hub ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/theoperson">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/JUG_SEC">X / @JUG_SEC</a>
+  <a href="https://github.com/TheoPerson?tab=repositories"><strong>Repositories ↗</strong></a>
 </div>
 
 <br />
 
 <p align="center">
-  <strong>AI Project Manager &amp; product builder</strong> turning ambiguous ideas into useful systems — from LLM workflows and data products to polished web experiences.
+  <strong>AI delivery &amp; product builder</strong> turning ambiguous ideas into useful systems — from LLM workflows and data products to polished web experiences.
 </p>
 
 <br />
@@ -51,7 +47,7 @@
 </a>
 
 <div align="right">
-  <a href="https://alandatabase.com"><strong>Visit product ↗</strong></a>
+  <a href="https://github.com/TheoPerson/the-alans-data-base"><strong>Source ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/TheoPerson/the-alans-data-base">Source</a>
 </div>
@@ -83,9 +79,7 @@
 <div align="center">
   <strong>Building something ambitious?</strong>
   <br /><br />
-  <a href="https://www.linkedin.com/in/theoperson"><strong>Let's connect ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/TheoPerson?tab=repositories">Explore all repositories</a>
+  <a href="https://github.com/TheoPerson?tab=repositories">Explore repositories</a>
 </div>
 
 <br />
