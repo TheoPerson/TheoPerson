@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 680px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="AI Project Manager and product builder" />
+    <source media="(max-width: 680px)" srcset="./assets/profile-hero-mobile.svg?v=2" />
+    <img src="./assets/profile-hero.svg?v=2" width="100%" alt="AI Project Manager and product builder" />
   </picture>
 
   <br />
