@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-  <strong>AI delivery &amp; product builder</strong> turning ambiguous ideas into useful systems — from LLM workflows and data products to polished web experiences.
+  <strong>Agentic Systems Architect & Product Builder</strong> bridging the gap between raw LLM capabilities and deterministic, autonomous production pipelines. Specializing in ADE (Agentic Development Environment) orchestration, autonomous QA swarms, and high-signal intelligence infrastructure.
 </p>
 
 <br />
@@ -71,9 +71,9 @@
 <br />
 
 <div align="center">
-  <strong>Building something ambitious?</strong>
+  <strong>Scaling autonomous architectures?</strong>
   <br /><br />
-  <a href="https://github.com/TheoPerson?tab=repositories">Explore repositories</a>
+  <a href="https://github.com/TheoPerson?tab=repositories">Explore the codebase</a>
 </div>
 
 <br />
