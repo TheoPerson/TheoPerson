@@ -21,7 +21,7 @@
       <g transform="translate(0 146)">
         <rect width="668" height="92" rx="14" fill="#080C13" fill-opacity=".86" stroke="#2B3650"/>
         <circle cx="23" cy="23" r="4" fill="#FF7B72"/><circle cx="40" cy="23" r="4" fill="#D6A84B"/><circle cx="57" cy="23" r="4" fill="#42C86A"/>
-        <text x="23" y="62" fill="#D8E1F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19">&gt; llm · data · product · web</text>
+        <text x="23" y="62" fill="#D8E1F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19">&gt; agentic coding · ADE engineering · autonomous systems</text>
         <rect x="346" y="46" width="10" height="22" rx="1" fill="#9DB2FF"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.43;.5;.93;1" dur="1.15s" repeatCount="indefinite"/></rect>
       </g>
     </g>

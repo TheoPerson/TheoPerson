@@ -68,7 +68,7 @@
         <circle cx="22" cy="21" r="4" fill="#FF7B72"/>
         <circle cx="38" cy="21" r="4" fill="#D6A84B"/>
         <circle cx="54" cy="21" r="4" fill="#42C86A"/>
-        <text x="22" y="57" fill="#D8E1F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">&gt; llm systems · data products · high-signal interfaces</text>
+        <text x="22" y="57" fill="#D8E1F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">&gt; agentic coding · ADE engineering · autonomous systems</text>
         <rect x="531" y="43" width="9" height="19" rx="1" fill="#9DB2FF">
           <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.43;0.5;0.93;1" dur="1.15s" repeatCount="indefinite"/>
         </rect>
