@@ -41,8 +41,8 @@
   <br /><br />
 
   <picture>
-    <source media="(max-width: 680px)" srcset="./assets/toolkit-mobile.svg" />
-    <img src="./assets/toolkit.svg" width="100%" alt="Operating stack" />
+    <source media="(max-width: 680px)" srcset="./assets/toolkit-mobile.svg?v=3" />
+    <img src="./assets/toolkit.svg?v=3" width="100%" alt="Operating stack" />
   </picture>
 
   <br /><br />

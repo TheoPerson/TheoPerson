@@ -19,17 +19,17 @@
       <g>
         <circle cx="5" cy="5" r="5" fill="#44E5EF"/>
         <text x="20" y="10" fill="#E8F8FB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">AI &amp; DATA</text>
-        <text y="44" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">LLM WORKFLOWS</text>
-        <text y="67" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">PYTHON · ANALYTICS</text>
-        <text y="90" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">DATA PRODUCTS</text>
+        <text y="44" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">AGENT SWARMS</text>
+        <text y="67" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">PYTHON · MCP TOOLS</text>
+        <text y="90" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">EVALS · RAG ARCH</text>
       </g>
 
       <g transform="translate(294)">
         <circle cx="5" cy="5" r="5" fill="#8294FF"/>
         <text x="20" y="10" fill="#EEF0FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">PRODUCT</text>
-        <text y="44" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">DISCOVERY · SCOPE</text>
-        <text y="67" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">SYSTEM DESIGN</text>
-        <text y="90" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">UX DIRECTION</text>
+        <text y="44" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">SYSTEM ARCHITECTURE</text>
+        <text y="67" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">PROMPT ENGINEERING</text>
+        <text y="90" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">AGENTIC UX</text>
       </g>
 
       <g transform="translate(588)">
@@ -43,9 +43,9 @@
       <g transform="translate(882)">
         <circle cx="5" cy="5" r="5" fill="#C57DFF"/>
         <text x="20" y="10" fill="#F7EEFF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">DELIVERY</text>
-        <text y="44" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">PROJECT LEADERSHIP</text>
-        <text y="67" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">GITHUB · CI/CD</text>
-        <text y="90" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">VERCEL · NETLIFY</text>
+        <text y="44" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">EVALUATION OPS</text>
+        <text y="67" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">GITHUB · WRANGLER</text>
+        <text y="90" fill="#91A3BE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">D1 · SQLITE</text>
       </g>
     </g>
 
